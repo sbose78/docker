@@ -16,7 +16,7 @@ import (
 const (
 	tableKey = "table"
 
-	containerIDHeader  = "CONTAINER ID"
+	containerIDHeader  = "CONTAINER IDENTITY"
 	imageHeader        = "IMAGE"
 	namesHeader        = "NAMES"
 	commandHeader      = "COMMAND"
